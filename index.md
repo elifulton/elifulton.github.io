@@ -4,8 +4,8 @@
 
 ### DS19 Builds
 
-[Project 1 Title](https://colab.research.google.com/drive/1M-FhoCkpJQYI50ni80BuE20zVTvvyrQL)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 1 Title](https://medium.com/p/2b5c016342f7/edit)
+[Project 1 Title Code](https://colab.research.google.com/drive/1M-FhoCkpJQYI50ni80BuE20zVTvvyrQL)
 
 
 
