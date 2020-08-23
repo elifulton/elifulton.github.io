@@ -4,7 +4,7 @@
 
 ### DS19 Builds
 
-[Project 1 Title](/sample_page)
+[Project 1 Title](https://colab.research.google.com/drive/1M-FhoCkpJQYI50ni80BuE20zVTvvyrQL)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
